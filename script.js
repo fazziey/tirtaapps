@@ -9,8 +9,8 @@ document.getElementById("contactBtn").addEventListener("click", function () {
     } else {
         box.innerHTML = `
             <strong>Tim Support Tirta Apps</strong><br>
-            📧 <a href="mailto:fazzyfitraturrahman93@gmail.com">fazzyfitraturrahman93@gmail.com</a><br>
-            💬 <a href="https://wa.me/6281234849992" target="_blank">+62 812-3484-9992</a> (WhatsApp)
+            📧 <a href="mailto:fazzyfitraturrahman93@gmail.com">fazzynurfitratulrahman@gmail.com</a><br>
+            💬 <a href="https://wa.me/6285335015609" target="_blank">+62 853-3501-5609</a> (WhatsApp)
         `;
         box.classList.add("visible");
     }
